@@ -2,6 +2,6 @@
 CV para Proyecto Final de Primeros Pasos en Front End - Ticmas Academy
 
 Segunda entrega del mismo proyecto, volví a subirlo en este nuevo repositorio con el formato que se muestra en el webinar.
-en el repositorio anterior 
+En el repositorio anterior: 
 https://github.com/Nesdimu/proyecto_cv 
-está el mismo proyecto presentado previamente, donde figuran todos los commits realizados.
+está el presentado previamente, donde figuran todos los commits realizados.
